@@ -30,7 +30,18 @@ Valor único R$
 40 
 
 ### Vagas gratuitas
-3 vagas
+Três vagas serão sorteadas para integrantes de Povos e Comunidades Tradicionais (CPT).
+
+Conforme o Decreto 6.040/2017, que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os “grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”.
+
+São exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.
+
+As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link XXX.
+
+O prazo de inscrição será encerrado no dia X, às 23:59:59. Será admitida apenas uma inscrição por pessoa.
+
+O sorteio será realizado no dia XX, via XXX, às XX:XXhs.
+
 
 ## CONTEÚDO
 
@@ -55,47 +66,3 @@ Doutorando na arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), gr
 ## MAIORES INFORMAÇÕES
 Exclusivamente pelo e-mail: igorpedroza@gmail.com
 Tempo de resposta máximo de 24 horas
-
-
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/letreiro/oficinaescrita-t9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/letreiro/oficinaescrita-t9/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -1,10 +1,52 @@
-# OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO
+**OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO**
+DD/MM/AAAA
+HH:MM ~ HH:MM
+
+### APRESENTAÇÃO DO CURSO
+
+### INSTRUTOR
+
+### LOCAL
+
+### PÚBLICO-ALVO
+
+### APRESENTAÇÃO DO CURSO
+
+### PRÉ-REQUISITO
+
+### CARGA HORÁRIA
+
+### INSCRIÇÃO
+
+## Taxa de inscrição
+
+## Vagas
+
+## Vagas gratuitas
+
+### CONTEÚDO
+
+### PROGRAMAÇÃO
+
+
+### MAIORES INFORMAÇÕES
+
 
 ### INDICE 1
 
 ### INDICE 2
 
 ### INDICE 3
+
+
+
+
+
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/letreiro/oficinaescrita-t9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

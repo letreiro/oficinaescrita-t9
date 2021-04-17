@@ -19,28 +19,6 @@ Estudantes de graduação ou pós-graduação, professores, profissionais libera
 * Computador com acesso à internet;
 * Software Word instalado.
 
-## INSCRIÇÃO
-
-### Taxa
-Valor único R$  
-
-### Vagas
-40 
-
-### Vagas gratuitas
-
-Através de sorteio, serão oferecidas três vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
-
-Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os: ```"grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”.```  
-
-São exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
-
-As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link <XXX>.  
-
-O prazo de inscrição será encerrado no dia <X, às 23:59:59>. Apenas uma inscrição por pessoa será aceita.  
-
-O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.  
-
 ## CONTEÚDO RESUMIDO
 
 * **Boas práticas**
@@ -67,14 +45,35 @@ O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.
 Todo o conteúdo será realizado em ambiente Windows com uso dos softwares Word e Mendeley.
 O link e instruções de instalação do Mendeley serão enviados previamente aos inscritos
 
-## POLÍTICA DE CANCELAMENTO
+## INSCRIÇÃO, VAGAS E POLÍTICA DE CANCELAMENTO
+
+### Taxa
+Valor único R$  
+
+### Vagas
+40 
+
+### Vagas gratuitas
+
+Através de sorteio, serão oferecidas três vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
+
+Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os: ```"grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”.```  
+
+São exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
+
+As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link <XXX>.  
+
+O prazo de inscrição será encerrado no dia <X, às 23:59:59>. Apenas uma inscrição por pessoa será aceita.  
+
+O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.  
+
+### Política de cancelamento
 - Até XX/XX/XX - Reembolso de 100 %
 - Até XX/XX/XX - Reembolso de 50 %
 
 Após esses prazos não haverá devolução.
 
 Caso não haja ocupação de 50 % das vagas até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso.
-
 
 ## INSTRUTOR
 [**Igor Pedroza**](http://lattes.cnpq.br/3970582841887411)

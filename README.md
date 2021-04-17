@@ -46,7 +46,8 @@ Conhecimento básico de Word e contato com referências bibliográficas.
 
 
 ## MAIORES INFORMAÇÕES
-
+Exclusivamente pelo e-mail: igorpedroza@gmail.com
+Tempo de resposta máximo de 24 horas
 
 ### INDICE 1
 

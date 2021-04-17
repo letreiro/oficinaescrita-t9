@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO
 
 You can use the [editor on GitHub](https://github.com/letreiro/oficinaescrita-t9/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

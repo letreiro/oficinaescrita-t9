@@ -14,10 +14,6 @@ Estudantes de graduação ou pós-graduação, professores, profissionais libera
 ## PRÉ-REQUISITO
 Conhecimento básico de editor de texto Word e qualquer tipo de contato com referências bibliográficas.  
 
-
-## APRESENTAÇÃO DO CURSO
-
-
 ## CARGA HORÁRIA
 6 h/a  
 
@@ -29,28 +25,30 @@ Valor único R$
 ### Vagas
 40 
 
-### Vagas gratuitas
+#### Vagas gratuitas
 
 Três vagas serão sorteadas para integrantes de Povos e Comunidades Tradicionais (CPT).  
 
-Conforme o Decreto [6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os “grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”.  
+Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os “grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”.  
 
 São exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
 
-As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link XXX.  
+As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link <XXX>.  
 
-O prazo de inscrição será encerrado no dia X, às 23:59:59. Apenas uma inscrição por pessoa será admitida.  
+O prazo de inscrição será encerrado no dia <X, às 23:59:59>. Apenas uma inscrição por pessoa será aceita.  
 
-O sorteio será realizado no dia XX, via XXX, às XX:XXhs.  
+O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.  
 
 
 ## CONTEÚDO
 
-- Tópico 1
-  - 1.1
-    - 1.2
-- Tópico 2
-- Tópico 3
+* Boas práticas
+  - ononon
+  - pp,p,
+
+* Edição no Word - básica e intermediária
+
+* Gerenciamento bibliográfico com software Mendeley
 
 ## PROGRAMAÇÃO
 

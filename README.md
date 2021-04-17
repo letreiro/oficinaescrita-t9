@@ -7,7 +7,7 @@ Horário de Brasília
 
 O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de conclusão de curso, visando o incremento na produtividade. 
 
-Essa oficina está em constante incremento. A primerira versão foi realizada em uma comunidade Quilomboloa e outras edições desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, a nona turma será realizada de maneira remota, em função da Pandemia do Covid-19. Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
+Essa oficina está em constante incremento. A primerira versão foi realizada em uma comunidade Quilomboloa e outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, essa nona turma será realizada de maneira remota, em função da Pandemia do Covid-19. Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 
 ## LOCAL
 Aula remota via plataforma Google Meet.  

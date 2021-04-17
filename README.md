@@ -73,10 +73,10 @@ O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.
 
 Após esses prazos não haverá devolução.
 
-Caso não haja ocupação de 50 % das vagas até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso.
+Caso não haja ocupação de 50 % das vagas até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso.   
 
 ## INSTRUTOR
-[**Igor Pedroza**](http://lattes.cnpq.br/3970582841887411)
+[**Igor Pedroza**](http://lattes.cnpq.br/3970582841887411)   
 Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
 
 ## OUTRAS INFORMAÇÕES

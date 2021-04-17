@@ -29,11 +29,17 @@ Conhecimento básico de Word e contato com referências bibliográficas.
 
 ### Vagas
 
+40 
+
 ### Vagas gratuitas
+
+3 vagas
 
 ## CONTEÚDO
 
 - Tópico 1
+  - 1.1
+    - 1.2
 - Tópico 2
 - Tópico 3
 

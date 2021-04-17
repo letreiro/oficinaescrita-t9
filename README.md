@@ -89,4 +89,6 @@ Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), gr
 e-mail: <igorpedroza@gmail.com>.  
 WhatsApp: +55 85 9 9971 8455
 
+Para facilitar, informar sempre o assunto: Oficina escrita - T9
+
 Tempo máximo para resposta: 36 horas.

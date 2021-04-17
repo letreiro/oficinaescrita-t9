@@ -67,6 +67,10 @@ O prazo de inscrição será encerrado no dia <X, às 23:59:59>. Apenas uma insc
 
 O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.  
 
+### Forma de pagamento
+Via Pix
+- Chave: ```igorpedroza@gmail.com```
+
 ### Política de cancelamento
 - Até XX/XX/XX - Reembolso de 100 %
 - Até XX/XX/XX - Reembolso de 50 %

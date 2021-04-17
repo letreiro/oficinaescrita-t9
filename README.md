@@ -31,9 +31,9 @@ Valor único R$
 
 ### Vagas gratuitas
 
-  Três vagas serão sorteadas para integrantes de Povos e Comunidades Tradicionais (CPT).  
+   Três vagas serão sorteadas para integrantes de Povos e Comunidades Tradicionais (CPT).  
 
-   Conforme o Decreto [6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os “grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”.  
+    Conforme o Decreto [6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os “grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”.  
 
   São exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
 

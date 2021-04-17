@@ -91,7 +91,9 @@ O prazo de inscrição será encerrado no dia **<X, às 23:59:59>**. Apenas uma 
 O sorteio será realizado no dia **<XX, via XXX, às XX:XXhs>.**
 
 ### Certificação
-Para quem desejar, será expedida declaração comprobatória de participação na oficina, incluindo a carga horária e ementa.  
+Será expedida declaração de participação para quem obtever 
+
+A comprovação de participação na oficina será com base Para quem desejar será expedida declaração comprobatória de participação na oficina, incluindo a carga horária e ementa.  
 
 ## INSTRUTOR
 **IGOR PEDROZA**  
@@ -99,7 +101,7 @@ Para quem desejar, será expedida declaração comprobatória de participação 
 
 Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
 
-## OUTRAS INFORMAÇÕES
+## OUTRAS INFORMAÇÕES, DÚVIDAS E SUGESTÕES
 Exclusivamente via e-mail: <igorpedroza@gmail.com>.  
 
 Gentileza informar o assunto: Oficina escrita - T9

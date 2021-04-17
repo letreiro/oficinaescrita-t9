@@ -3,8 +3,20 @@ DD/MM/AAAA
 09:00 ~ 12:00 - 13:00 ~ 16:00hs  
 Horário de Brasília
 
-## APRESENTAÇÃO DO CURSO
 
+
+## APRESENTAÇÃO DO CURSO
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.  
+
+A nona turma da oficina de escrita científica será realizada de maneira remota em função da Pandemia do Covid-19. 
+
+Essa oficina está em constante incremento e já foi realizada em comunidade Quilombola, Centros Culturais e em curso de graduação, especialização, mestrado e doutorado.
+
+A ampla aprovação é um incentivo para novas formação de novas turmas. Em virtude da ampla aprovação e Com ampla aprovação, 
+
+Essa turma possui 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 
 ## LOCAL
 Sala on-line via plataforma Google Meet.  
@@ -15,9 +27,8 @@ __Observação__: Não haverá gravação.
 Estudantes de graduação ou pós-graduação, professores, profissionais liberais, gestores públicos ou privados e demais interessados na introdução e/ou aprimoramento do uso de editor de texto, bem como de processos de gestão e controle bibliográfico com fins de adequação às normas acadêmicas e de melhora na produtividade.
 
 ## REQUISITOS
-* Conhecimento básico de editor de texto Word e qualquer tipo de contato com referências bibliográficas;
-* Computador com acesso à internet;
-* Software Word instalado.
+* Conhecimento básico de editor de texto Word e qualquer tipo de contato com referências bibliográficas.
+* Computador com acesso à internet e software Word instalado.
 
 ## CONTEÚDO RESUMIDO
 
@@ -48,10 +59,22 @@ O link e instruções de instalação do Mendeley serão enviados previamente ao
 ## INSCRIÇÃO
 
 ### Taxa
-Valor único R$  
+Valor único R$  48,00
 
-### Vagas
-40 
+### Forma de pagamento
+Via Pix
+- Chave: **igorpedroza@gmail.com**
+
+### Inscrição
+Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7)
+
+### Política de cancelamento
+- Até XX/XX/XX - Reembolso de 100 %
+- Até XX/XX/XX - Reembolso de 50 %
+
+Após esses prazos não haverá devolução.
+
+Caso não haja ocupação de 50 % das vagas (20) até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso. 
 
 ### Vagas gratuitas
 
@@ -61,29 +84,14 @@ Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-20
 
 São exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
 
-As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link ```<XXX>```.  
+As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link **<XXX>**.  
 
-O prazo de inscrição será encerrado no dia ```<X, às 23:59:59>```. Apenas uma inscrição por pessoa será aceita, sendo instranferível.  
+O prazo de inscrição será encerrado no dia **<X, às 23:59:59>**. Apenas uma inscrição por pessoa será aceita, sendo instranferível.  
 
-O sorteio será realizado no dia ```<XX, via XXX, às XX:XXhs>.```  
-
-### Forma de pagamento
-Via Pix
-- Chave: ```igorpedroza@gmail.com```
-
-### Inscrição
-Após o pagamento, preencher o formulário de inscrição e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7)
-
-### Política de cancelamento
-- Até XX/XX/XX - Reembolso de 100 %
-- Até XX/XX/XX - Reembolso de 50 %
-
-Após esses prazos não haverá devolução.
-
-Caso não haja ocupação de 50 % das vagas até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso.   
+O sorteio será realizado no dia **<XX, via XXX, às XX:XXhs>.**
 
 ### Certificação
-Para quem desejar, será expedida declaração comprobatória de participação na oficina, incluindo a carga horária e ementa.
+Para quem desejar, será expedida declaração comprobatória de participação na oficina, incluindo a carga horária e ementa.  
 
 ## INSTRUTOR
 **IGOR PEDROZA**  
@@ -94,6 +102,6 @@ Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), gr
 ## OUTRAS INFORMAÇÕES
 Exclusivamente via e-mail: <igorpedroza@gmail.com>.  
 
-Informar sempre o assunto: Oficina escrita - T9
+Gentileza informar o assunto: Oficina escrita - T9
 
 Tempo máximo para resposta: 36 horas.

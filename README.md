@@ -57,7 +57,6 @@ O sorteio será realizado no dia XX, via XXX, às XX:XXhs.
 
 
 ## POLÍTICA DE CANCELAMENTO
-
 - 100 % - Até XX/XX/XX
 - 50 %  - Até XX/XX/XX
 - 0 %   - Até XX/XX/XX
@@ -66,10 +65,9 @@ Caso não haja ocupação de 50 % das vagas o curso será adiado para nova data.
 
 
 ## INSTRUTOR
-
 [**Igor Pedroza**](http://lattes.cnpq.br/3970582841887411)
 >Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
 
 ## MAIORES INFORMAÇÕES
-Exclusivamente pelo e-mail: igorpedroza@gmail.com.  
+Exclusivamente pelo e-mail: <igorpedroza@gmail.com>.  
 Tempo de resposta máximo de 24 horas.

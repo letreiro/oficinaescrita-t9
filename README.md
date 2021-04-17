@@ -56,7 +56,7 @@ O sorteio será realizado no dia XX, via XXX, às XX:XXhs.
 
 ## INSTRUTOR
 
-**Igor Pedroza**<br/>
+> **Igor Pedroza**  
 Doutorando na arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.
 
 ## MAIORES INFORMAÇÕES

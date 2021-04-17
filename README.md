@@ -62,7 +62,7 @@ O sorteio será realizado no dia XX, via XXX, às XX:XXhs.
 - 50 %  - Até XX/XX/XX
 - 0 %   - Até XX/XX/XX
 
-Caso não haja ocupação de 50% das vagas o curso será adiado para nova data. Nesse caso, quem tiver interesse, poderá solicitar o reembolso integral do curso.  
+Caso não haja ocupação de 50 % das vagas o curso será adiado para nova data. Nesse caso, quem tiver interesse, poderá solicitar o reembolso integral do curso.  
 
 
 ## INSTRUTOR

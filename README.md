@@ -6,13 +6,24 @@ HH:MM ~ HH:MM
 
 ## INSTRUTOR
 
+**Igor Pedroza**
+Doutorando na arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.
+
 ## LOCAL
+
+Sala on-line via plataforma Google Meet. Não haverá gravação.
 
 ## PÚBLICO-ALVO
 
-## APRESENTAÇÃO DO CURSO
+Estudantes de graduação ou pós-graduação, professores, profissionais liberais, gestores públicos ou privados e demais interessados na temática.
 
 ## PRÉ-REQUISITO
+
+Conhecimento básico de Word e contato com referências bibliográficas.
+
+
+## APRESENTAÇÃO DO CURSO
+
 
 ## CARGA HORÁRIA
 

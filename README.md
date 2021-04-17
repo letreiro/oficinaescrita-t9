@@ -1,4 +1,4 @@
-# **OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO**
+# **OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO (6 h/a)**
 DD/MM/AAAA  
 09:00 ~ 12:00 - 13:00 ~ 16:00hs  
 Horário de Brasília
@@ -8,21 +8,44 @@ Horário de Brasília
 
 ## LOCAL
 Sala on-line via plataforma Google Meet.  
-Observação: Não haverá gravação.  
+
+__Observação__: Não haverá gravação.  
 
 ## PÚBLICO-ALVO
-Estudantes de graduação ou pós-graduação, professores, profissionais liberais, gestores públicos ou privados e demais interessados na temática.  
+Estudantes de graduação ou pós-graduação, professores, profissionais liberais, gestores públicos ou privados e demais interessados na introdução e/ou aprimoramento do uso de editor de texto, bem como de processos de gestão e controle bibliográfico com fins de adequação às normas acadêmicas e de melhora na produtividade.
 
-## PRÉ-REQUISITO
-Conhecimento básico de editor de texto Word e qualquer tipo de contato com referências bibliográficas.
+## REQUISITOS
+* Conhecimento básico de editor de texto Word e qualquer tipo de contato com referências bibliográficas;
+* Computador com acesso à internet;
+* Software Word instalado.
 
-## RECURSOS NECESSÁRIOS
-Computador com acesso à internet e softwares instalados: Word e Mendeley (será enviado o link e instruções).
+## CONTEÚDO RESUMIDO
 
-## CARGA HORÁRIA
-6 h/a  
+* **Boas práticas**
+  - Tipos de Plágio
+  - Repositórios
+  - Curriculum
+  - Identificadores
+  - Open Science
+  
+* **Edição no Word - básica e intermediária**
+  - Estilos
+  - Formatação
+  - Edições
+  - Paginação
+  - Referências
 
-## INSCRIÇÃO
+* **Gerenciamento bibliográfico com software Mendeley**
+  - A importãncia do gerenciamento bibliográfico
+  - Interface do software
+  - Adição e edição de dados e metadados
+  - Organização da leitura
+  - Conexão com o Word
+
+Todo o conteúdo será realizado em ambiente Windows com uso dos softwares Word e Mendeley.
+O link e instruções de instalação do Mendeley serão enviados previamente aos inscritos
+
+## INSCRIÇÃO, VAGAS E POLÍTICA DE CANCELAMENTO
 
 ### Taxa
 Valor único R$  
@@ -44,51 +67,18 @@ O prazo de inscrição será encerrado no dia <X, às 23:59:59>. Apenas uma insc
 
 O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.  
 
+### Política de cancelamento
+- Até XX/XX/XX - Reembolso de 100 %
+- Até XX/XX/XX - Reembolso de 50 %
 
-## CONTEÚDO RESUMIDO
+Após esses prazos não haverá devolução.
 
-* Boas práticas
-  - Tipos de Plágio
-  - Repositórios
-  - Curriculum
-  - Identificadores
-  - Open Science
-  
-* Edição no Word - básica e intermediária
-  - Estilos
-  - Formatação
-  - Edições
-  - Paginação
-  - Referências
-
-* Gerenciamento bibliográfico com software Mendeley
-  - A importãncia do gerenciamento bibliográfico
-  - Interface do software
-  - Adição e edição de dados e metadados
-  - Organização da leitura
-  - Conexão com o Word
-
-Todo o conteúdo será realizado em ambiente Windows e uso dos softwares Word e Mendeley.
-
-## PROGRAMAÇÃO
-
-
-
-
-
-
-## POLÍTICA DE CANCELAMENTO
-- 100 % - Até XX/XX/XX
-- 50 %  - Até XX/XX/XX
-- 0 %   - Até XX/XX/XX
-
-Caso não haja ocupação de 50 % das vagas o curso será adiado para nova data. Nesse caso, quem tiver interesse, poderá solicitar o reembolso integral do curso.  
-
+Caso não haja ocupação de 50 % das vagas até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso.
 
 ## INSTRUTOR
 [**Igor Pedroza**](http://lattes.cnpq.br/3970582841887411)
->Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
+Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
 
-## MAIORES INFORMAÇÕES
+## OUTRAS INFORMAÇÕES
 Exclusivamente pelo e-mail: <igorpedroza@gmail.com>.  
-Tempo de resposta máximo de 24 horas.
+Tempo de resposta máximo de 48 horas.

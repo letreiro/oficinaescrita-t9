@@ -86,9 +86,8 @@ Caso não haja ocupação de 50 % das vagas até dia XXX, o curso será adiado p
 Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
 
 ## OUTRAS INFORMAÇÕES
-e-mail: <igorpedroza@gmail.com>.  
-WhatsApp: +55 85 9 9971 8455
+Exclusivamente via e-mail: <igorpedroza@gmail.com>.  
 
-Para facilitar, informar sempre o assunto: Oficina escrita - T9
+Informar sempre o assunto: Oficina escrita - T9
 
 Tempo máximo para resposta: 36 horas.

@@ -1,25 +1,16 @@
 # **OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO (6 h/a)**
 DD/MM/AAAA  
-09:00 ~ 12:00 - 13:00 ~ 16:00hs  
-Horário de Brasília
+09:00~12:00 - 13:00~16:00hs  
+Horário de Brasília  
+  
+## APRESENTAÇÃO DO CURSO  
 
+O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de conclusão de curso, visando o incremento na produtividade. 
 
-
-## APRESENTAÇÃO DO CURSO
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
-Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.  
-
-A nona turma da oficina de escrita científica será realizada de maneira remota em função da Pandemia do Covid-19. 
-
-Essa oficina está em constante incremento e já foi realizada em comunidade Quilombola, Centros Culturais e em curso de graduação, especialização, mestrado e doutorado.
-
-A ampla aprovação é um incentivo para novas formação de novas turmas. Em virtude da ampla aprovação e Com ampla aprovação, 
-
-Essa turma possui 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
+Essa oficina está em constante incremento. A primerira versão foi realizada em uma comunidade Quilomboloa e outras edições desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, a nona turma será realizada de maneira remota, em função da Pandemia do Covid-19. Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 
 ## LOCAL
-Sala on-line via plataforma Google Meet.  
+Aula remota via plataforma Google Meet.  
 
 __Observação__: Não haverá gravação.  
 
@@ -91,7 +82,9 @@ O prazo de inscrição será encerrado no dia **<X, às 23:59:59>**. Apenas uma 
 O sorteio será realizado no dia **<XX, via XXX, às XX:XXhs>.**
 
 ### Certificação
-Será expedida declaração de participação para quem obtever 
+A frequência de participação será computada através da presença na sala virtual e respotas aos questionários que serão 
+
+realizada base com a particição Será expedida declaração de participação para quem obtever 
 
 A comprovação de participação na oficina será com base Para quem desejar será expedida declaração comprobatória de participação na oficina, incluindo a carga horária e ementa.  
 

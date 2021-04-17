@@ -63,13 +63,16 @@ São exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de 
 
 As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link ```<XXX>```.  
 
-O prazo de inscrição será encerrado no dia <X, às 23:59:59>. Apenas uma inscrição por pessoa será aceita.  
+O prazo de inscrição será encerrado no dia ```<X, às 23:59:59>```. Apenas uma inscrição por pessoa será aceita, sendo instranferível.  
 
-O sorteio será realizado no dia <XX, via XXX, às XX:XXhs>.  
+O sorteio será realizado no dia ```<XX, via XXX, às XX:XXhs>.```  
 
 ### Forma de pagamento
 Via Pix
 - Chave: ```igorpedroza@gmail.com```
+
+### Inscrição
+Após o pagamento, preencher o formulário de inscrição e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7)
 
 ### Política de cancelamento
 - Até XX/XX/XX - Reembolso de 100 %
@@ -78,6 +81,9 @@ Via Pix
 Após esses prazos não haverá devolução.
 
 Caso não haja ocupação de 50 % das vagas até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso.   
+
+### Certificação
+Para quem desejar, será expedida declaração comprobatória de participação na oficina, incluindo a carga horária e ementa.
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

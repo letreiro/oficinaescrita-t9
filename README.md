@@ -5,9 +5,9 @@ Horário de Brasília
   
 ## APRESENTAÇÃO DO CURSO  
 
-;&nbsp;&nbsp;&nbspO objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de ;&nbsp;&nbsp;&nbspconclusão de curso, visando o incremento na produtividade. 
+&nbsp;&nbsp;&nbsp;O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de &nbsp;&nbsp;&nbsp;conclusão de curso, visando o incremento na produtividade. 
 
-;&nbsp;&nbsp;&nbspEssa oficina está em constante evolução. A primerira versão foi realizada em uma comunidade Quilomboloa e outras edições foram desenvolvidas em centros ;&nbsp;&nbsp;&nbspculturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, essa nona ;&nbsp;&nbsp;&nbspturma será realizada de maneira remota, em função da Pandemia do Covid-19.
+&nbsp;&nbsp;&nbsp;Essa oficina está em constante evolução. A primerira versão foi realizada em uma comunidade Quilomboloa e outras edições foram desenvolvidas em centros &nbsp;&nbsp;&nbsp;culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, essa nona &nbsp;&nbsp;&nbsp;turma será realizada de maneira remota, em função da Pandemia do Covid-19.
 
 Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 

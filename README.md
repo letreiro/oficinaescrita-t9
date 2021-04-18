@@ -7,7 +7,9 @@ Horário de Brasília
 
 O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de conclusão de curso, visando o incremento na produtividade. 
 
-Essa oficina está em constante incremento. A primerira versão foi realizada em uma comunidade Quilomboloa e outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, essa nona turma será realizada de maneira remota, em função da Pandemia do Covid-19. Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
+Essa oficina está em constante evolução. A primerira versão foi realizada em uma comunidade Quilomboloa e outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, essa nona turma será realizada de maneira remota, em função da Pandemia do Covid-19.
+
+Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 
 ## LOCAL
 Aula remota via plataforma Google Meet.  
@@ -50,11 +52,12 @@ O link e instruções de instalação do Mendeley serão enviados previamente ao
 ## INSCRIÇÃO
 
 ### Taxa
-Valor único R$  48,00
+Valor único R$  47,60
 
 ### Forma de pagamento
 Via Pix
 - Chave: **igorpedroza@gmail.com**
+- Cliente: Igor Pedroza - Banco do Brasil
 
 ### Inscrição
 Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7)
@@ -65,7 +68,7 @@ Após o pagamento, preencher o formulário e anexar o comprovante neste link: [F
 
 Após esses prazos não haverá devolução.
 
-Caso não haja ocupação de 50 % das vagas (20) até dia XXX, o curso será adiado para nova data. Neste caso, quem tiver interesse poderá solicitar o reembolso integral do curso. 
+Caso não haja ocupação de 50 % das vagas (20) até dia **XXX**, o curso será adiado. Neste caso, quem tiver interesse poderá solicitar o reembolso integral. 
 
 ### Vagas gratuitas
 
@@ -82,11 +85,7 @@ O prazo de inscrição será encerrado no dia **<X, às 23:59:59>**. Apenas uma 
 O sorteio será realizado no dia **<XX, via XXX, às XX:XXhs>.**
 
 ### Certificação
-A frequência de participação será computada através da presença na sala virtual e respotas aos questionários que serão 
-
-realizada base com a particição Será expedida declaração de participação para quem obtever 
-
-A comprovação de participação na oficina será com base Para quem desejar será expedida declaração comprobatória de participação na oficina, incluindo a carga horária e ementa.  
+A frequência de participação será computada através da presença na sala virtual e respotas aos questionários que serão realizados ao longo da oficina. Será expedida declaração comprobatória de participação, incluindo a carga horária e ementa.  
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

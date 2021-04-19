@@ -57,10 +57,12 @@ Valor único R$  47,60
 ### Forma de pagamento
 Via Pix
 - Chave: **igorpedroza@gmail.com**
-- Cliente: Igor Pedroza - Banco do Brasil
+- Cliente: Igor Pedroza - Banco do Brasil  
 
 ### Inscrição
-Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7)
+Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7).  
+
+Não haverá qualquer tipo de reserva de vagas.
 
 ### Política de cancelamento
 - Até XX/XX/XX - Reembolso de 100 %

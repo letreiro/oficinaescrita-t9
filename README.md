@@ -40,7 +40,7 @@ Estudantes de graduação ou pós-graduação, professores, profissionais libera
   - Referências
 
 * **Gerenciamento bibliográfico com software Mendeley**
-  - A importãncia do gerenciamento bibliográfico
+  - A importância do gerenciamento bibliográfico
   - Interface do software
   - Adição e edição de dados e metadados
   - Organização da leitura

@@ -87,7 +87,9 @@ O prazo de inscrição será encerrado no dia **<X, às 23:59:59>**. Apenas uma 
 O sorteio será realizado no dia **<XX, via XXX, às XX:XXhs>.**
 
 ## CERTIFICAÇÃO
-A frequência de participação será computada através da presença na sala virtual e respotas aos questionários que serão realizados ao longo da oficina. Será expedida declaração comprobatória de participação aos que obtiverem 75 % de aproveitamento (presença e quiz), constando a carga horária e a ementa.  
+A frequência de participação será computada através da presença na sala virtual e respotas aos questionários que serão realizados ao longo da oficina.  
+
+Será expedida declaração comprobatória de participação aos que obtiverem 75 % de aproveitamento (presença e quiz), constando a carga horária e a ementa.  
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

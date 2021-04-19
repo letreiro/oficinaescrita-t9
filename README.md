@@ -100,6 +100,6 @@ Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), gr
 ## OUTRAS INFORMAÇÕES, DÚVIDAS E SUGESTÕES
 Exclusivamente via e-mail: <igorpedroza@gmail.com>.  
 
-Gentileza informar o assunto: Oficina escrita - T9
+Gentileza informar no assunto: Oficina escrita - T9
 
 Tempo máximo para resposta: 36 horas.

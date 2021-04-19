@@ -7,14 +7,14 @@ Horário de Brasília
 
 O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de conclusão de curso, visando o incremento na produtividade e qualidade.
 
-Essa oficina está em constante evolução. A primerira versão, ainda que singela, foi realizada em uma comunidade Quilombola e outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para formação de novas turmas. Assim, essa nona turma será realizada de maneira remota, em função da Pandemia do Covid-19.
+Essa oficina está em constante evolução. A primeira versão, ainda que singela, foi realizada em uma comunidade Quilombola. Outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para a continuidade dessas ações. Assim, essa nona turma será realizada de maneira remota, em função da Pandemia do Covid-19.
 
 Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 
 ## LOCAL
-Aula remota via plataforma Google Meet.  
+Aula remota via plataforma Google Meet. O link será enviado, exclusivamente, para os inscritos.
 
-__Observação__: Não haverá gravação.  
+__Observação__: Não haverá gravação da aula.  
 
 ## PÚBLICO-ALVO
 Estudantes de graduação ou pós-graduação, professores, profissionais liberais, gestores públicos ou privados e demais interessados na introdução e/ou aprimoramento do uso de editor de texto, bem como de processos de gestão e controle bibliográfico com fins de adequação às normas acadêmicas e de melhora na produtividade.

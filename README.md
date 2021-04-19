@@ -46,7 +46,7 @@ Estudantes de graduação ou pós-graduação, professores, profissionais libera
   - Organização da leitura
   - Conexão com o Word
 
-Todo o conteúdo será realizado em ambiente Windows com uso dos softwares Word e Mendeley.
+Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word e Mendeley.
 O link e instruções de instalação do Mendeley serão enviados previamente aos inscritos.
 
 ## INSCRIÇÃO

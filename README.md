@@ -102,7 +102,9 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 22-05-2021 - Realização da oficina  
 28-05-2021 - Envio das declarações comprobatórias  
 
+## VAGAS DISPONÍVEIS
 
+37 (atualizado em 21-04-2021)
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

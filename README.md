@@ -3,7 +3,7 @@ DD/MM/AAAA
 09:00 - 12:00 / 13:00 - 16:00hs  
 Horário de Brasília  
   
-## APRESENTAÇÃO DO CURSO  
+## SOBRE O CURSO  
 
 O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de conclusão de curso, visando o incremento na produtividade e qualidade.
 

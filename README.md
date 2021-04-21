@@ -95,12 +95,12 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 ## CRONOGRAMA
 
-21-04-2021 - Lançamento da oficina
+21-04-2021 - Lançamento da oficina  
 
-07-05-2021 - Fim das incrições para vagas gratuitas (Povos e comunidades Tradicionais)
-10-05-2021 - Sorteio das vagas gratuitas
-22-05-2021 - Realização da oficina
-28-05-2021 - Envio das declarações comprobatórias
+07-05-2021 - Fim das incrições para vagas gratuitas (Povos e comunidades Tradicionais)  
+10-05-2021 - Sorteio das vagas gratuitas  
+22-05-2021 - Realização da oficina  
+28-05-2021 - Envio das declarações comprobatórias  
 
 
 

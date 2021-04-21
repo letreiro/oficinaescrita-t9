@@ -51,8 +51,9 @@ O link e instruções de instalação do Mendeley serão enviados previamente ao
 
 ## INSCRIÇÃO
 
-### Taxa
-Valor único R$  47,60
+### Preço
+1o. Lote - 20 vagas iniciais - R$ 47,60
+2o. Lote - vagas restantes   - R$ 56,60
 
 ### Forma de pagamento
 Via Pix
@@ -82,14 +83,25 @@ Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais d
 
 As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link **<XXX>**.  
 
-O prazo de inscrição será encerrado no dia **<X, às 23:59:59>**. Apenas uma inscrição por pessoa será aceita, sendo instranferível.  
+O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23:59:59**. Apenas uma inscrição por pessoa será aceita, sendo instranferível.  
 
-O sorteio será realizado no dia **<XX, via XXX, às XX:XXhs>.**
+O sorteio será realizado no dia **9 de maio, via [Youtube](https://www.youtube.com/channel/UCVbQicla-IxcYAO_2SB6lXg), às 10:00hs.**
 
 ## CERTIFICAÇÃO
 A frequência de participação será computada através da presença na sala virtual e respotas aos questionários que serão realizados ao longo da oficina.  
 
 Será expedida declaração comprobatória de participação aos que obtiverem 75 % de aproveitamento (presença e quiz), constando a carga horária e a ementa.  
+
+
+## CRONOGRAMA
+
+21-04-2021 - Lançamento da oficina
+07-05-2021 - Fim das incrições para vagas gratuitas (Povos e comunidades Tradicionais)
+10-05-2021 - Sorteio das vagas gratuitas
+22-05-2021 - Realização da oficina
+25-05-2021 - Envio das declarações comprobatórias
+
+
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

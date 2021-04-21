@@ -1,7 +1,7 @@
 # **OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO (6 h/a)**
 22-05-2021 (Sábado)  
 09:00 - 12:00 / 13:00 - 16:00hs  
-Horário de Brasília  
+Horário de Brasília (UTC-3)  
   
 ## SOBRE O CURSO  
 

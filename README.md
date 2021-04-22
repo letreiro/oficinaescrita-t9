@@ -108,9 +108,13 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 22/05/2021 - Envio do link e realização da oficina  
 28/05/2021 - Envio das declarações comprobatórias  
 
-## VAGAS DISPONÍVEIS
+## DISPONIBILIDADE DE VAGAS
 
-35 VAGAS
+|Disponíveis|Ocupadas|Grupos Tradicionais| TOTAL|
+|---|---|---|---|
+|33|2|5|40
+
+>**Atualizado em 22/04/2021 - 12hs:30min**
 
 ## INSTRUTOR
 **IGOR PEDROZA**  
@@ -124,8 +128,3 @@ Exclusivamente via e-mail: <igorpedroza@gmail.com>.
 Gentileza informar no assunto: Oficina escrita - T9
 
 Tempo máximo para resposta: 36 horas.  
-  
-  
-  
-
-> **ÚLTIMA ATUALIZAÇÃO: 21-04-2021**

@@ -1,5 +1,5 @@
 # **OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO (6 h/a)**
-**22/05/2021 (Sábado)**    
+**22/05/2021 (Sábado)**   
 09:00 - 12:00 / 13:00 - 16:00hs  
 Horário de Brasília (UTC-3)  
   
@@ -48,10 +48,10 @@ Estudantes de graduação ou pós-graduação, professores, profissionais libera
   - Interface do software
   - Adição e edição de dados e metadados
   - Organização da leitura
-  - Conexão com o Word
+  - Integração com o Word
 
 Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word e Mendeley.
-O link e instruções de instalação do Mendeley serão enviados previamente aos inscritos.
+O link e as instruções de instalação do Mendeley serão enviados previamente aos inscritos.
 
 ## INSCRIÇÃO
 
@@ -62,8 +62,11 @@ O link e instruções de instalação do Mendeley serão enviados previamente ao
 ### Forma de pagamento
 Via Pix
 - Chave: **igorpedroza@gmail.com**
-- Cliente: Igor Pedroza - Banco do Brasil  
-- Dados: Ag. 3656-6/ CC 10.8290-6   
+- Favorecido: Igor Pedroza - Banco do Brasil  
+
+Via transferência
+- Dados: Banco do Brasil / Ag. 3656-6 / Conta Corrente 108.290-6
+- Favorecido: Igor Pedroza     
 
 ### Inscrição
 Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7).  
@@ -102,7 +105,7 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 07/05/2021 - Fim das incrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
 09/05/2021 - Sorteio das vagas gratuitas  
-22/05/2021 - Realização da oficina  
+22/05/2021 - Envio do link e realização da oficina  
 28/05/2021 - Envio das declarações comprobatórias  
 
 ## VAGAS DISPONÍVEIS

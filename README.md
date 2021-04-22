@@ -56,7 +56,7 @@ O link e instruções de instalação do Mendeley serão enviados previamente ao
 ## INSCRIÇÃO
 
 ### Preço
-1o. Lote - 20 vagas iniciais  - R$ 47,60
+1o. Lote - 20 vagas iniciais  - R$ 47,60  
 2o. Lote - 15 vagas restantes - R$ 56,60
 
 ### Forma de pagamento
@@ -87,7 +87,7 @@ Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais d
 
 As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link **<XXX>**.  
 
-O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23:59:59**. Apenas uma inscrição por pessoa será aceita, sendo instransferível.  
+O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23:59:59**. Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
 
 O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://www.youtube.com/channel/UCVbQicla-IxcYAO_2SB6lXg), às 10:00hs.**
 

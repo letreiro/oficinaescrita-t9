@@ -1,5 +1,5 @@
 # **OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO (6 h/a)**
-**22-05-2021 (Sábado)**    
+**22/05/2021 (Sábado)**    
 09:00 - 12:00 / 13:00 - 16:00hs  
 Horário de Brasília (UTC-3)  
   
@@ -63,6 +63,7 @@ O link e instruções de instalação do Mendeley serão enviados previamente ao
 Via Pix
 - Chave: **igorpedroza@gmail.com**
 - Cliente: Igor Pedroza - Banco do Brasil  
+- Dados: Ag. 3656-6/ CC 10.8290-6   
 
 ### Inscrição
 Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7).  
@@ -70,12 +71,12 @@ Após o pagamento, preencher o formulário e anexar o comprovante neste link: [F
 Não haverá qualquer tipo de reserva de vagas.
 
 ### Política de cancelamento
-- Até 11/XX/XX - Reembolso de 90%
-- Até 16/XX/XX - Reembolso de 45%
+- Até 11/05/21 - Reembolso de 90%
+- Até 16/05/21 - Reembolso de 45%
 
 Após esses prazos não haverá devolução.
 
-Caso não haja ocupação de 50% das vagas (20) até dia **XXX**, o curso será adiado. Neste caso, quem tiver interesse poderá solicitar o reembolso integral. 
+Caso não haja ocupação de 50% das vagas (20) até dia **12/05/2021**, o curso será adiado. Neste caso, quem tiver interesse poderá solicitar o reembolso integral. 
 
 ### Vagas gratuitas
 
@@ -87,9 +88,9 @@ Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais d
 
 As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link **<XXX>**.  
 
-O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23:59:59**. Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
+O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23hs 59min**. Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
 
-O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://www.youtube.com/channel/UCVbQicla-IxcYAO_2SB6lXg), às 10:00hs.**
+O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://www.youtube.com/channel/UCVbQicla-IxcYAO_2SB6lXg), às 10hs.**
 
 ## CERTIFICAÇÃO
 A frequência de participação será computada através da presença na sala virtual e respostas aos questionários que serão realizados ao longo da oficina.  
@@ -99,10 +100,10 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 ## CRONOGRAMA
 
-07-05-2021 - Fim das incrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
-09-05-2021 - Sorteio das vagas gratuitas  
-22-05-2021 - Realização da oficina  
-28-05-2021 - Envio das declarações comprobatórias  
+07/05/2021 - Fim das incrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
+09/05/2021 - Sorteio das vagas gratuitas  
+22/05/2021 - Realização da oficina  
+28/05/2021 - Envio das declarações comprobatórias  
 
 ## VAGAS DISPONÍVEIS
 
@@ -120,6 +121,8 @@ Exclusivamente via e-mail: <igorpedroza@gmail.com>.
 Gentileza informar no assunto: Oficina escrita - T9
 
 Tempo máximo para resposta: 36 horas.  
+  
+  
   
 
 > **ÚLTIMA ATUALIZAÇÃO: 21-04-2021**

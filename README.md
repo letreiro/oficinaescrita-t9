@@ -12,7 +12,9 @@ Essa oficina está em constante evolução. A primeira versão, ainda que singel
 Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 
 ## LOCAL
-Aula remota via plataforma Google Meet. O link será enviado, exclusivamente, para os inscritos.
+Aula remota via plataforma Google Meet.  
+
+O link será enviado, exclusivamente, para os inscritos.  
 
 __Observação__: Não haverá gravação da aula.  
 
@@ -118,3 +120,6 @@ Exclusivamente via e-mail: <igorpedroza@gmail.com>.
 Gentileza informar no assunto: Oficina escrita - T9
 
 Tempo máximo para resposta: 36 horas.
+
+
+> ÚLTIMA ATUALIZAÇÃO: 21-04-2021

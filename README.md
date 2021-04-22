@@ -65,7 +65,7 @@ Via Pix
 - Favorecido: Igor Pedroza - Banco do Brasil  
 
 Via transferência
-- Dados: Banco do Brasil / Ag. 3656-6 / Conta Corrente 108.290-6
+- Dados: Banco do Brasil / Ag. 3653-6 / Conta Corrente 108290-6
 - Favorecido: Igor Pedroza     
 
 ### Inscrição

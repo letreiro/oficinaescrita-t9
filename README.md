@@ -70,12 +70,12 @@ Após o pagamento, preencher o formulário e anexar o comprovante neste link: [F
 Não haverá qualquer tipo de reserva de vagas.
 
 ### Política de cancelamento
-- Até XX/XX/XX - Reembolso de 100%
-- Até XX/XX/XX - Reembolso de 50%
+- Até 11/XX/XX - Reembolso de 90%
+- Até 16/XX/XX - Reembolso de 45%
 
 Após esses prazos não haverá devolução.
 
-Caso não haja ocupação de 50 % das vagas (20) até dia **XXX**, o curso será adiado. Neste caso, quem tiver interesse poderá solicitar o reembolso integral. 
+Caso não haja ocupação de 50% das vagas (20) até dia **XXX**, o curso será adiado. Neste caso, quem tiver interesse poderá solicitar o reembolso integral. 
 
 ### Vagas gratuitas
 
@@ -99,16 +99,14 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 ## CRONOGRAMA
 
-21-04-2021 - Lançamento da oficina  
-
 07-05-2021 - Fim das incrições para vagas gratuitas (Povos e comunidades Tradicionais)  
-10-05-2021 - Sorteio das vagas gratuitas  
+09-05-2021 - Sorteio das vagas gratuitas  
 22-05-2021 - Realização da oficina  
 28-05-2021 - Envio das declarações comprobatórias  
 
 ## VAGAS DISPONÍVEIS
 
-37 (atualizado em 21-04-2021)
+35 VAGAS
 
 ## INSTRUTOR
 **IGOR PEDROZA**  
@@ -124,4 +122,4 @@ Gentileza informar no assunto: Oficina escrita - T9
 Tempo máximo para resposta: 36 horas.  
   
 
-> ÚLTIMA ATUALIZAÇÃO: 21-04-2021
+> **ÚLTIMA ATUALIZAÇÃO: 21-04-2021**

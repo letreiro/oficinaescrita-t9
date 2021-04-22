@@ -91,7 +91,7 @@ Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais d
 
 As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível neste [link](https://forms.gle/XdGMCXfNDbyZYZYj8).  
 
-O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23hs 59min**. Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
+O prazo de inscrição será encerrado no dia **7 de maio de 2021, às 23hs 59min**. Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
 
 O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://www.youtube.com/channel/UCVbQicla-IxcYAO_2SB6lXg), às 10hs.**
 

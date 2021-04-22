@@ -50,8 +50,7 @@ Estudantes de graduação ou pós-graduação, professores, profissionais libera
   - Organização da leitura
   - Integração com o Word
 
-Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word e Mendeley.
-O link e as instruções de instalação do Mendeley serão enviados previamente aos inscritos.
+Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word e Mendeley. O link e as instruções de instalação do Mendeley serão enviados previamente aos inscritos.
 
 ## INSCRIÇÃO
 
@@ -91,7 +90,9 @@ Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais d
 
 As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível neste [link](https://forms.gle/XdGMCXfNDbyZYZYj8).  
 
-O prazo de inscrição será encerrado no dia **7 de maio de 2021, às 23hs 59min**. Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
+O prazo de inscrição será encerrado no dia **7 de maio de 2021, às 23hs 59min**.
+
+Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
 
 O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://www.youtube.com/channel/UCVbQicla-IxcYAO_2SB6lXg), às 10hs.**
 
@@ -114,7 +115,7 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 |---|---|---|---|
 |33|2|5|40
 
->**Atualizado em 22/04/2021 - 12hs:30min**
+>**Atualizado em 22/04/2021 - 12hs 30min**
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

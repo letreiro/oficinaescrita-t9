@@ -114,14 +114,14 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 **IGOR PEDROZA**  
 [CV Lattes](http://lattes.cnpq.br/3970582841887411)   
 
-Doutorando em arqueologia (PPGArq/UFPE), mestre em arqueologia (PPGArq/UFPE), graduado em história (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
+Doutorando em Arqueologia (PPGArq/UFPE), mestre em Arqueologia (PPGArq/UFPE), graduado em História (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
 
 ## OUTRAS INFORMAÇÕES, DÚVIDAS E SUGESTÕES
 Exclusivamente via e-mail: <igorpedroza@gmail.com>.  
 
 Gentileza informar no assunto: Oficina escrita - T9
 
-Tempo máximo para resposta: 36 horas.
-
+Tempo máximo para resposta: 36 horas.  
+  
 
 > ÚLTIMA ATUALIZAÇÃO: 21-04-2021

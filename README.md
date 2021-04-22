@@ -114,9 +114,9 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 |Disponíveis|Ocupadas|Grupos Tradicionais| TOTAL|
 |---|---|---|---|
-|33|2|5|40
+|32|3|5|40
 
->**Atualizado em 22/04/2021 - 12hs 30min**
+>**Atualizado em 22/04/2021 - 15hs**
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

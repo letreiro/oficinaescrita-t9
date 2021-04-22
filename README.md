@@ -70,8 +70,8 @@ Após o pagamento, preencher o formulário e anexar o comprovante neste link: [F
 Não haverá qualquer tipo de reserva de vagas.
 
 ### Política de cancelamento
-- Até XX/XX/XX - Reembolso de 100 %
-- Até XX/XX/XX - Reembolso de 50 %
+- Até XX/XX/XX - Reembolso de 100%
+- Até XX/XX/XX - Reembolso de 50%
 
 Após esses prazos não haverá devolução.
 
@@ -92,9 +92,9 @@ O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23:59:59*
 O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://www.youtube.com/channel/UCVbQicla-IxcYAO_2SB6lXg), às 10:00hs.**
 
 ## CERTIFICAÇÃO
-A frequência de participação será computada através da presença na sala virtual e respotas aos questionários que serão realizados ao longo da oficina.  
+A frequência de participação será computada através da presença na sala virtual e respostas aos questionários que serão realizados ao longo da oficina.  
 
-Será expedida declaração comprobatória de participação aos que obtiverem 75 % de aproveitamento (presença e quiz), constando a carga horária e a ementa.  
+Será expedida declaração comprobatória de participação aos que obtiverem 75% de aproveitamento (presença e quiz), constando a carga horária e a ementa.  
 
 
 ## CRONOGRAMA

@@ -9,7 +9,7 @@ O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso
 
 Essa oficina está em constante evolução. A primeira versão, ainda que singela, foi realizada em uma comunidade Quilombola. Outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado. A ampla aprovação é um incentivo para a continuidade dessas ações. Assim, essa nona turma será realizada de maneira remota, em função da Pandemia do Covid-19.
 
-Serão abertas 40 vagas, sendo 3 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
+Serão abertas 40 vagas, sendo 5 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
 
 ## LOCAL
 Aula remota via plataforma Google Meet.  
@@ -54,8 +54,8 @@ O link e instruções de instalação do Mendeley serão enviados previamente ao
 ## INSCRIÇÃO
 
 ### Preço
-1o. Lote - 20 vagas iniciais - R$ 47,60
-2o. Lote - vagas restantes   - R$ 56,60
+1o. Lote - 20 vagas iniciais  - R$ 47,60
+2o. Lote - 15 vagas restantes - R$ 56,60
 
 ### Forma de pagamento
 Via Pix
@@ -77,7 +77,7 @@ Caso não haja ocupação de 50 % das vagas (20) até dia **XXX**, o curso será
 
 ### Vagas gratuitas
 
-Através de sorteio, serão oferecidas três vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
+Através de sorteio, serão oferecidas cinco vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
 
 Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os "grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”. 
 

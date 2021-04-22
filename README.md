@@ -21,7 +21,7 @@ O link será enviado, exclusivamente, para os inscritos.
 __Observação__: Não haverá gravação da aula.  
 
 ## PÚBLICO-ALVO
-Estudantes de graduação ou pós-graduação, professores, profissionais liberais, gestores públicos ou privados e demais interessados na introdução e/ou aprimoramento do uso de editor de texto, bem como de processos de gestão e controle bibliográfico com fins de adequação às normas acadêmicas e de melhora na produtividade.
+Estudantes de graduação ou pós-graduação, professores, profissionais liberais, gestores públicos ou privados e demais interessados na **introdução e/ou aprimoramento** do uso de editor de texto, bem como de processos de gestão e controle bibliográfico com fins de adequação às normas acadêmicas e de melhora na produtividade.
 
 ## REQUISITOS
 * Conhecimento básico de editor de texto Word e qualquer tipo de contato com referências bibliográficas.
@@ -41,6 +41,7 @@ Estudantes de graduação ou pós-graduação, professores, profissionais libera
   - Formatação
   - Edições
   - Paginação
+  - Listas automáticas
   - Referências
 
 * **Gerenciamento bibliográfico com software Mendeley**
@@ -109,13 +110,13 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 22/05/2021 - Envio do link e realização da oficina  
 28/05/2021 - Envio das declarações comprobatórias  
 
-## DISPONIBILIDADE DE VAGAS
+## DISPONIBILIDADE DE VAGAS (Atualizável)
 
 |Disponíveis|Ocupadas|Grupos Tradicionais| TOTAL|
 |---|---|---|---|
-|33|2|5|40
+|32|3|5|40
 
->**Atualizado em 22/04/2021 - 12hs 30min**
+>**Atualizado em 22/04/2021 - 15hs**
 
 ## INSTRUTOR
 **IGOR PEDROZA**  

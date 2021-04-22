@@ -69,7 +69,7 @@ Via transferência
 - Favorecido: Igor Pedroza     
 
 ### Inscrição
-Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/qRn461B1NPgVKDZB7).  
+Após o pagamento, preencher o formulário e anexar o comprovante neste link: [Formulário](https://forms.gle/GASCC3N7xkpHLdrNA).  
 
 Não haverá qualquer tipo de reserva de vagas.
 
@@ -89,7 +89,7 @@ Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-20
 
 Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
 
-As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível no link **<XXX>**.  
+As inscrições para participação do sorteio serão realizadas, exclusivamente, via formulário disponível neste [link](https://forms.gle/XdGMCXfNDbyZYZYj8).  
 
 O prazo de inscrição será encerrado no dia **7 de maio de 2020, às 23hs 59min**. Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
 

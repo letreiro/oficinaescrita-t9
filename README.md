@@ -116,7 +116,7 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 |---|---|---|---|
 |31|4|5|40
 
-```**Atualizado em 23/04/2021 - 10hs**```  
+>```Atualizado em 23/04/2021 - 10hs```  
   
   
   

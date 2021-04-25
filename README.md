@@ -87,7 +87,7 @@ Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-20
 
 Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
 
-As **inscrições para participação do sorteio** serão realizadas, exclusivamente, via formulário disponível neste **[LINK](https://forms.gle/XdGMCXfNDbyZYZYj8)**.  
+As **inscrições para participação do sorteio** serão realizadas, exclusivamente, via formulário disponível neste ```**[LINK](https://forms.gle/XdGMCXfNDbyZYZYj8)**```.  
 
 O prazo de inscrição será encerrado no dia **7 de maio de 2021, às 23hs 59min**.
 

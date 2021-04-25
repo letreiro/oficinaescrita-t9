@@ -3,9 +3,9 @@
 09:00 - 12:00 / 13:00 - 16:00hs  
 Horário de Brasília (UTC-3)  
   
-## SOBRE O CURSO  
+## SOBRE A OFICINA  
 
-O objetivo da oficina é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção técnica de relatórios, artigos e trabalhos de conclusão de curso, visando o incremento na produtividade e qualidade.
+O objetivo é tratar de boas práticas científicas e aprimorar o uso de ferramentas para a produção de relatórios, artigos e trabalhos de conclusão de curso, visando o incremento na produtividade e qualidade.
 
 Essa oficina está em constante evolução. A primeira versão, ainda que singela, foi realizada em uma comunidade Quilombola. Outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado.  
 
@@ -15,9 +15,7 @@ Serão abertas 40 vagas, sendo 5 destinadas à integrantes de Povos e Comunidade
 
 ## LOCAL
 Aula remota via plataforma Google Meet.  
-
-O link será enviado, exclusivamente, para os inscritos.  
-
+   
 __Observação__: Não haverá gravação da aula.  
 
 ## PÚBLICO-ALVO
@@ -116,17 +114,18 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 |---|---|---|---|
 |30|5|5|40
 
->```Atualizado em 24/04/2021 - 00:30hs```  
+>```Atualizado em 25/04/2021 - 11:30hs```  
   
   
   
-
+   
 ## INSTRUTOR
 **IGOR PEDROZA**  
 [CV Lattes](http://lattes.cnpq.br/3970582841887411)   
 
 Doutorando em Arqueologia (PPGArq/UFPE), mestre em Arqueologia (PPGArq/UFPE), graduado em História (UECE). Membro do Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material (UFPE/CNPq). Membro do Grupo de Estudos em Arqueologia, Geociências e Tecnologias - GEAGT (UFPE/PPGArq/CNPq). Membro do Grupo de Estudios Geoarqueológicos de América Latina - Grupo GEGAL. Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (IPHAN-CE) entre os anos de 2015 e 2019. Já realizou oficinas de escrita científica em museus, centros culturais e em cursos de graduação e pós-graduação.  
-
+   
+   
 ## OUTRAS INFORMAÇÕES, DÚVIDAS E SUGESTÕES
 Exclusivamente via e-mail: <igorpedroza@gmail.com>.  
 

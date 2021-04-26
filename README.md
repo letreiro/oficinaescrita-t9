@@ -58,7 +58,7 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 (13 vagas disponíveis)   
    
 **2o. Lote - 15 vagas restantes - R$ 56,60**   
-(15 vagas disponívies)   
+(15 vagas disponíveis)   
 
 >```Atualização em 26/04/21 - 16:00hs```
 

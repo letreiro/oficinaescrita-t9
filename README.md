@@ -112,9 +112,9 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 |Disponíveis|Ocupadas|Grupos Tradicionais| TOTAL|
 |---|---|---|---|
-|29|6|5|40
+|28|7|5|40
 
->```Atualizado em 25/04/2021 - 23:30hs```  
+>```Atualizado em 26/04/2021 - 12:30hs```  
   
   
   

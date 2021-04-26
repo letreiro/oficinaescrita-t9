@@ -54,8 +54,13 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 ## INSCRIÇÃO
 
 ### Preço
-1o. Lote - 20 vagas iniciais  - R$ 47,60  
-2o. Lote - 15 vagas restantes - R$ 56,60
+**1o. Lote - 20 vagas iniciais  - R$ 47,60**   
+(13 vagas disponíveis)   
+   
+**2o. Lote - 15 vagas restantes - R$ 56,60**   
+(15 vagas disponívies)   
+
+>```Atualização em 26/04/21 - 16:00hs```
 
 ### Forma de pagamento
 Via Pix
@@ -99,7 +104,7 @@ O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://www.
 A frequência de participação será computada através da presença na sala virtual e respostas aos questionários que serão realizados ao longo da oficina.  
 
 Será expedida declaração comprobatória de participação aos que obtiverem 75% de aproveitamento (presença e quiz), constando a carga horária e a ementa.  
-
+   
 
 ## CRONOGRAMA
 
@@ -107,17 +112,9 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 09/05/2021 - Sorteio das vagas gratuitas  
 22/05/2021 - Envio do link e realização da oficina  
 28/05/2021 - Envio das declarações comprobatórias  
-
-## DISPONIBILIDADE DE VAGAS (Atualizável)
-
-|Disponíveis|Ocupadas|Grupos Tradicionais| TOTAL|
-|---|---|---|---|
-|28|7|5|40
-
->```Atualizado em 26/04/2021 - 12:30hs```  
+   
   
-  
-  
+   
    
 ## INSTRUTOR
 **IGOR PEDROZA**  

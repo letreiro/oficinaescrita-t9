@@ -112,9 +112,9 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 |Disponíveis|Ocupadas|Grupos Tradicionais| TOTAL|
 |---|---|---|---|
-|30|5|5|40
+|29|6|5|40
 
->```Atualizado em 25/04/2021 - 11:30hs```  
+>```Atualizado em 25/04/2021 - 23:30hs```  
   
   
   
@@ -131,4 +131,4 @@ Exclusivamente via e-mail: <igorpedroza@gmail.com>.
 
 Gentileza informar no assunto: Oficina escrita - T9
 
-Tempo máximo para resposta: 36 horas.  
+Tempo máximo para resposta: 24 horas.  

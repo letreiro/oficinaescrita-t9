@@ -58,9 +58,9 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 (12 vagas disponíveis)   
    
 **2o. Lote - 15 vagas restantes - R$ 56,60**   
-(1 vagas disponíveis)   
+(15 vagas disponíveis)   
 
->```Atualização em 08/05/21 - 21:00hs```
+>```Atualizado em 08/05/21 - 21:00hs```
 
 ### Forma de pagamento
 Via Pix
@@ -94,11 +94,11 @@ Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais d
 
 As **inscrições para participação do sorteio** serão realizadas, exclusivamente, via formulário disponível neste **[LINK](https://forms.gle/XdGMCXfNDbyZYZYj8)**.  
 
-O prazo de inscrição será encerrado no dia **7 de maio de 2021, às 23hs 59min**.
+O prazo de inscrição foi encerrado no dia **7 de maio de 2021, às 23hs 59min**.
 
 Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
 
-> O sorteio será realizado no dia **9 de maio de 2021, via [Youtube](https://youtu.be/39Fs0Rn7tTE), às 10hs.**
+> O sorteio foi realizado no dia **9 de maio de 2021, via [Youtube](https://youtu.be/39Fs0Rn7tTE), às 10hs. O vídeo está gravado e disponível para consulta.**
 
 
 ## CERTIFICAÇÃO
@@ -110,12 +110,14 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 ## CRONOGRAMA
 
 - [X]  07/05/2021 - Fim das incrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
-- [ ]  09/05/2021 - Sorteio das vagas gratuitas  
+- [X]  09/05/2021 - Sorteio das vagas gratuitas  
 - [ ]  22/05/2021 - Envio do link e realização da oficina  
 - [ ]  28/05/2021 - Envio das declarações comprobatórias  
    
-  
    
+   
+   
+     
    
 ## INSTRUTOR
 **IGOR PEDROZA**  

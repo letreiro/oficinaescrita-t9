@@ -55,12 +55,12 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 
 ### Preço
 **1o. Lote - 20 vagas iniciais  - R$ 47,60**   
-(12 vagas disponíveis)   
+(11 vagas disponíveis)   
    
 **2o. Lote - 15 vagas restantes - R$ 56,60**   
 (15 vagas disponíveis)   
 
->```Atualizado em 08/05/21 - 21:00hs```
+>```Atualizado em 11/05/21 - 11:45hs```
 
 ### Forma de pagamento
 Via Pix
@@ -84,7 +84,7 @@ Após esses prazos não haverá devolução.
 
 Caso não haja ocupação de 50% das vagas (20) até dia **12/05/2021**, o curso será adiado. Neste caso, quem tiver interesse poderá solicitar o reembolso integral. 
 
-### Vagas gratuitas (INSCRIÇÕES ENCERRADAS)
+### Vagas gratuitas (INSCRIÇÕES ENCERRADAS - SORTEIO REALIZADO)
 
 Através de sorteio, serão oferecidas cinco vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
 
@@ -109,10 +109,10 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 ## CRONOGRAMA
 
-- [X]  07/05/2021 - Fim das incrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
-- [X]  09/05/2021 - Sorteio das vagas gratuitas  
-- [ ]  22/05/2021 - Envio do link e realização da oficina  
-- [ ]  28/05/2021 - Envio das declarações comprobatórias  
+- [X] - 07/05/2021 - Fim das incrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
+- [X] - 09/05/2021 - Sorteio das vagas gratuitas  
+- [ ] - 22/05/2021 - Envio do link e realização da oficina  
+- [ ] - 28/05/2021 - Envio das declarações comprobatórias  
    
    
    

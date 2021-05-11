@@ -109,10 +109,10 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 ## CRONOGRAMA
 
-- [X] - 07/05/2021 - Fim das incrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
-- [X] - 09/05/2021 - Sorteio das vagas gratuitas  
-- [ ] - 22/05/2021 - Envio do link e realização da oficina  
-- [ ] - 28/05/2021 - Envio das declarações comprobatórias  
+- [X]  07/05/2021 - Fim das inscrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
+- [X]  09/05/2021 - Sorteio das vagas gratuitas  
+- [ ]  22/05/2021 - Envio do link e realização da oficina  
+- [ ]  28/05/2021 - Envio das declarações comprobatórias  
    
    
    
